@@ -1,5 +1,9 @@
+.DS_Store
 venv/
 .env
 __pycache__/
 *.pyc
 output/
+colored/
+raw_bw/
+one_piece_latest.pdf
